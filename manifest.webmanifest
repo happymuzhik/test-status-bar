@@ -7,7 +7,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/theme-color-darkmode.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "hsl(24.3, 97.4%, 54.3%)",
   "theme_color": "hsl(24.3, 97.4%, 54.3%)"
