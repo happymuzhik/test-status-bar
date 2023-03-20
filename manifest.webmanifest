@@ -7,8 +7,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "",
   "display": "standalone",
-  "background_color": "hsl(24.3, 97.4%, 54.3%)",
-  "theme_color": "hsl(24.3, 97.4%, 54.3%)"
+  "background_color": "wheat",
+  "theme_color": "wheat"
 }
